@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mad libs game/Mad libs game.iml" filepath="$PROJECT_DIR$/Mad libs game/Mad libs game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user input/user input.iml" filepath="$PROJECT_DIR$/user input/user input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variable/variable.iml" filepath="$PROJECT_DIR$/variable/variable.iml" />
     </modules>
   </component>
 </project>
